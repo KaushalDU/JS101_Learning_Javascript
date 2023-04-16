@@ -1,0 +1,22 @@
+let head = "***********REPORT CARD***********";
+let n = "Name      -    Student";
+let s = "School    -    CNS";
+let g = "Grade     -    10th";
+let t = "Section   -    B";
+let r = "Roll No.  -    280";
+let x = "Subject   -    Marks";
+let m = "Maths     -    99";
+let p = "Physics   -    98";
+let c = "Chemistry -    99";
+let mid ="          ^^^^^^^^^^^^^^"
+console.log(head);
+console.log("      " ,n);
+console.log("      " ,s);
+console.log("      " ,g);
+console.log("      " ,t);
+console.log("      " ,r);
+console.log(mid);
+console.log("      " ,x);
+console.log("      " ,m);
+console.log("      " ,p);
+console.log("      " ,c);
